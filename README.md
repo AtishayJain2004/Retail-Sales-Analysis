@@ -26,7 +26,7 @@ Power BI – Data visualization and dashboard creation
 ![Product Analysis](product_analysis_dashboard.png)
 
 ## Files Included
-- trai_Cleaned.xlsx
+- train_Cleaned.xlsx
 - retail_sales_dashboard.pbix
 - sales_overview_dashboard.png
 - product_analysis_dashboard.png
